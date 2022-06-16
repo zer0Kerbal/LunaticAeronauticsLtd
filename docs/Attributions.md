@@ -7,7 +7,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Attributions.md v1.0.7.1
-Rover Anti Gravity System (RAGS)
+Lunatic Aeronautics Ltd (LA/L)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +15,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Rover Anti Gravity System (RAGS)
+# Lunatic Aeronautics Ltd (LA/L)
 
 [Home](./index.md)
 
@@ -27,7 +27,7 @@ updated: 03 Jun 2022
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/"><img border="0" alt="ximrm" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-111063.jpg" width="50" height="50" > ximrm</a> and <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/"><img border="0" alt="Tuareg" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-84241.jpg" width="50" height="50" > Tuareg</a> for creating the Lunatic Aeronautics series of addons!</a></li>
   <ul>
     <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/95442-*/" alt="Anti Gravity Room (LAAGR)">Anti Gravity Room (LAAGR) </a></li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/" alt="Rover Anti Gravity System (RAGS)">Rover Anti Gravity System (RAGS) </a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/" alt="Lunatic Aeronautics Ltd (LA/L)">Lunatic Aeronautics Ltd (LA/L) </a></li>
     <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/" alt="K-MAS (KMAS)">K-MAS (KMAS) </a></li>
   </ul>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
