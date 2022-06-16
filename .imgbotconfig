@@ -1,0 +1,20 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "GameData/LunaticAeronautics/LunaticAeronauticsLtd/*",
+        "source/*",
+        "**/@thumbs/**",
+        "**/Agencies/**",
+        "**/Assets/**",
+        "**/Flags/**",
+        "**/FX/**",
+        "**/Icons/**",
+        "**/LegalMumboJumbo/**",
+        "**/PluginData/**",
+        "**/Textures/**",
+        "**/UI/**"
+    ],
+    "aggressiveCompression": "false",
+    "compressWiki": "true",
+    "minKBReduced": 500
+}
