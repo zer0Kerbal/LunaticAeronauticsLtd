@@ -24,7 +24,8 @@ based upon work by LisiasT -->
 
 * "Lunatic Aeronautics" is trademark of ximrm and Tuareg
 * "Rover Anti Gravity System" is trademark of ximrm and Tuareg
-* "RAGS" is trademark of zer0Kerbal
+* "Lunatic Aeronautics Ltd" is trademark of zer0Kerbal
+* "LA/L" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
 * KerbSimCo is a trademark of zer0Kerbal
 * zer0Kerbal is trademark of zer0kerbal
@@ -32,6 +33,10 @@ based upon work by LisiasT -->
 ## Lunatic Aeronautics (LA)
 
 * "Lunatic Aeronautics (LA)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+
+## Lunatic Aeronautics Ltd (LA/L)
+
+* "Lunatic Aeronautics LTD (LA/L)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 
