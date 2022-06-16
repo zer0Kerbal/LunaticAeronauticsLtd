@@ -7,13 +7,13 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!-- 
 hdr-changelog.md v1.0.0.0
-Rover Anti Gravity System (RAGS)
+Lunatic Aeronautics Ltd (LA/L)
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Rover Anti Gravity System (RAGS)                                    |
+| modName    | Lunatic Aeronautics Ltd (LA/L)                                    |
 | ---------- | ------------------------------------------------------------------- |
 | license    | CC-BY-NC-SA-4.0                                                     |
 | author     | ximrm, Tuareg and zer0Kerbal                                        |
@@ -71,7 +71,7 @@ CC BY-ND 4.0 by zer0Kerbal
 ### Status
 
 * Issues
-  * closes #1 - Rover Anti Gravity System (RAGS) 1.2.99.0-adoption <NAME>
+  * closes #1 - Lunatic Aeronautics Ltd (LA/L) 1.2.99.0-adoption <NAME>
   * closes #2 - 1.2.99.0 Verify Legal Mumbo Jumbo
   * closes #3 - 1.2.99.0 Create Documentation
   * closes #4 - 1.2.99.0 Create Social Media
