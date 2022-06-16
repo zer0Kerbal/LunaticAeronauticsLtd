@@ -75,8 +75,8 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 * By Lunatic Aeronautics
   * [Anti Grav Room (LA/AGR)][LAAGR]
+  * [Rover Anti Gravity System (LA/RAGS)][RAGS]
   * [K-MAS (KMAS)][KMAS]
-  * [Lunatic Aeronautics Ltd (LA/L)
 
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
   <p><b>red box below is a link to forum post on how to get support</b></p>
