@@ -232,7 +232,7 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 0.99.9.0-prerelease
+  - title: 0.9.9.0-prerelease
     description: progress toward 0.9.99.0-prerelease
     state: open
 
