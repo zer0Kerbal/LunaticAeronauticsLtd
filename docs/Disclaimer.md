@@ -6,14 +6,14 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Disclaimer.md v1.0.0.1
-Rover Anti Gravity System (RAGS)
+Lunatic Aeronautics Ltd (LA/L)
 created: 01 Apr 2022
 updated: 
 
 inspired by godarklight
 -->
 
-# Rover Anti Gravity System (RAGS)
+# Lunatic Aeronautics Ltd (LA/L)
 
 [Home](/index.md)
 
