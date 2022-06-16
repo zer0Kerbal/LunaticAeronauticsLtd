@@ -32,14 +32,6 @@ brought to you by *KerbSimpleCo*
 
 ---
 
-![Hero Image][IMG:hero:0]
-
-### Youtube review by [`Billy Winn Jr`](https://www.youtube.com/c/BillyWinnJr)
-
-*possibly [Jatwaa](https://forum.kerbalspaceprogram.com/index.php?/profile/59627-*/) on the forums*
-
-[![Kerbal Space Program: Holy Floaty Rovers!](https://img.youtube.com/vi/v6XxcuiLaAY/0.jpg)](https://www.youtube.com/watch?v=v6XxcuiLaAY)
-
 ### Help Wanted
 
 > * Compatibility patches
