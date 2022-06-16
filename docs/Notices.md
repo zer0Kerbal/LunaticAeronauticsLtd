@@ -23,7 +23,9 @@ based upon work by LisiasT -->
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
 * "Lunatic Aeronautics" is trademark of ximrm and Tuareg
-* "Rover Anti Gravity System" is trademark of ximrm and Tuareg
+* LunaticAeronautics:
+  * ximrm: Eduard Riegel
+  * Tuareg: Thomas Varga
 * "Lunatic Aeronautics Ltd" is trademark of zer0Kerbal
 * "LA/L" is trademark of zer0Kerbal
 * Kerbal Simple Co is a trademark of zer0Kerbal
