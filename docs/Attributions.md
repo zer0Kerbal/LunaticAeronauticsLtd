@@ -26,9 +26,9 @@ updated: 03 Jun 2022
 <ul>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/"><img border="0" alt="ximrm" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-111063.jpg" width="50" height="50" > ximrm</a> and <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/"><img border="0" alt="Tuareg" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/profile/photo-84241.jpg" width="50" height="50" > Tuareg</a> for creating the Lunatic Aeronautics series of addons!</a></li>
   <ul>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/95442-*/" alt="Anti Gravity Room (LAAGR)">Anti Gravity Room (LAAGR) </a></li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/" alt="Lunatic Aeronautics Ltd (LA/L)">Lunatic Aeronautics Ltd (LA/L) </a></li>
-    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/" alt="K-MAS (KMAS)">K-MAS (KMAS) </a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/" alt="Anti Gravity Room (LAAGR)">Anti Gravity Room (LAAGR) </a></li>
+    <li><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/" alt="Rover Anti Gravity System (LA/RAGS)">Rover Anti Gravity System (LA/RAGS) </a></li>
+    <li><a href="https://github.com/zer0Kerbal/KMAS" alt="K-MAS (KMAS)">K-MAS (KMAS) </a></li>
   </ul>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
@@ -72,10 +72,10 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[LAL]: https:// "Lunatic Aeronautics Ltd (LA/L)"
-[LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/95442-*/ "Lunatic Aeronautics Anti Grav Room"
-[KMAS]: https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/ "Lunatic Aeronautics K-Mas"
-[RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/95481-*/ "Rover Anti Gravity System"
+[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
+[LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/ "Anti Grav Room"
+[KMAS]: https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/ "K-Mas"
+[RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Rover Anti Gravity System"
 
 [ximrm]: https://forum.kerbalspaceprogram.com/index.php?/profile/111063-*/ "ximrm"
 [tuareg]: https://forum.kerbalspaceprogram.com/index.php?/profile/84241-*/ "Tuareg"
