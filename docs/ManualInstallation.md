@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Rover Anti Gravity System (RAGS)][RAGS]
+Lunatic Aeronautics Ltd (LA/L)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Rover Anti Gravity System (RAGS)
+# Lunatic Aeronautics Ltd (LA/L)
 
 [Home](./index.md)
 
@@ -30,7 +30,7 @@ updated: 18 Apr 2022 -->
   * [Lunatic Aeronautics Ltd (LA/L)][LAL]
   * [Lunatic Aeronautics Anti Grav Room (LAAGR)][LAAGR]
   * [Lunatic Aeronautics K-Mas (KMAS)][KMAS]
-  * [Rover Anti Gravity System (RAGS)][RAGS]
+  * [Lunatic Aeronautics Ltd (LA/L)
 
 ## Installation Instructions
 
