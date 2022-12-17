@@ -6,14 +6,14 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Disclaimer.md v1.0.0.1
-Lunatic Aeronautics Ltd (LA/L)
+Lunatic Aeronautics Ltd (LAL)
 created: 01 Apr 2022
 updated: 
 
 inspired by godarklight
 -->
 
-# Lunatic Aeronautics Ltd (LA/L)
+# Lunatic Aeronautics Ltd (LAL)
 
 [Home](/index.md)
 
