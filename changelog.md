@@ -12,30 +12,34 @@
 
 ## Version 0.9.99.0-pre-release `<Welcome to the Circus Boardroom>` edition
 
-* 15 Jun 2022
-* Released for Kerbal Space Program 1.12.4
+* Released
+  * 15 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
 
-### Add
+### Creation by zer0Kerbal
 
-* Flags
-  * created by zer0Kerbal
-  * closes #26 - Create Flag
-* Agent
-  * created by zer0Kerbal
-  * closes #25 - Create Agency
+* Create
+  * Flags
+  * Agent
 
 ### Localization 0.9.99.0
 
 * Add
-  * <us-en.cfg>
+  * <us-en.cfg> v1.0.0.0
   * Localization/
-    * [readme.md]
-    * [quickstart.md]
-* updates #8 - American English <us-en.cfg>
-* updates #7 - Localization - Master
+    * <readme.md> v2.1.2.0
+    * <quickstart.md>  v1.0.1.1
+* closes #6 - English <us-en.cfg>
+* updates #5 - Localization - Master
 
 ### Status 0.9.99.0
 
 * Issues
+
+  * closes #1 - Lunatic Aeronautics Ltd (LAL) 0.9.99.0-prerelease `<Welcome to the Circus Boardroom>`
+  * closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Update Documentation
+  * closes #4 - 0.9.99.0 Update Social Media
 
 ---
