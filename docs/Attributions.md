@@ -4,10 +4,9 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
 Attributions.md v1.0.7.1
-Lunatic Aeronautics Ltd (LA/L)
+Lunatic Aeronautics Ltd (LAL)
 created: 01 Feb 2022
 updated: 03 Jun 2022
 -->
@@ -15,7 +14,7 @@ updated: 03 Jun 2022
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-# Lunatic Aeronautics Ltd (LA/L)
+# Lunatic Aeronautics Ltd (LAL)
 
 [Home](./index.md)
 
@@ -72,7 +71,7 @@ updated: 03 Jun 2022
 </ul>
 
 <!-- links -->
-[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
+[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LAL)"
 [LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/ "Anti Grav Room"
 [KMAS]: https://forum.kerbalspaceprogram.com/index.php?/topic/94315-*/ "K-Mas"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Rover Anti Gravity System"
