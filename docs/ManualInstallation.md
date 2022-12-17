@@ -6,13 +6,13 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Lunatic Aeronautics Ltd (LA/L)
+Lunatic Aeronautics Ltd (LAL)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Lunatic Aeronautics Ltd (LA/L)
+# Lunatic Aeronautics Ltd (LAL)
 
 [Home](./index.md)
 
@@ -27,10 +27,10 @@ updated: 18 Apr 2022 -->
 > Sadly our scientist were not able to solve the problem of conflicting with engine electronics.
 
 * Lunatic Aeronautics
-  * [Lunatic Aeronautics Ltd (LA/L)][LAL]
+  * [Lunatic Aeronautics Ltd (LAL)][LAL]
   * [Lunatic Aeronautics Anti Grav Room (LAAGR)][LAAGR]
   * [Lunatic Aeronautics K-Mas (KMAS)][KMAS]
-  * [Lunatic Aeronautics Ltd (LA/L)][LAL]
+  * [Lunatic Aeronautics Ltd (LAL)][LAL]
 
 ## Installation Instructions
 
@@ -90,7 +90,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * none
 
-[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LA/L)"
+[LAL]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "Lunatic Aeronautics Ltd (LAL)"
 [KMAS]: https://github.com/zer0Kerbal/KMAS "Lunatic Aeronautics K-MAS"
 [RAGS]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "Rover Anti Gravity System"
 [LAAGR]: https://forum.kerbalspaceprogram.com/index.php?/topic/208502-*/  "Anti Grav Room"
