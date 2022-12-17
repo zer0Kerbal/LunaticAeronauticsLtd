@@ -7,7 +7,7 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.1.0
-Lunatic Aeronautics Ltd (LA/L)
+Lunatic Aeronautics Ltd (LAL)
 created: 13 Apr 2022
 updated: 15 May 2022
 
@@ -16,7 +16,7 @@ based upon work by LisiasT -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-# Lunatic Aeronautics Ltd (LA/L)
+# Lunatic Aeronautics Ltd (LAL)
 
 [Home](./index.md)
 
@@ -36,9 +36,9 @@ based upon work by LisiasT -->
 
 * "Lunatic Aeronautics (LA)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
-## Lunatic Aeronautics Ltd (LA/L)
+## Lunatic Aeronautics Ltd (LAL)
 
-* "Lunatic Aeronautics LTD (LA/L)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
+* "Lunatic Aeronautics Ltd (LAL)" is a fictitious entity created for entertainment purposes. It is in no way meant to represent a real entity. Any similarity to a real entity is purely coincidental.
 
 ## Kerbal Simple Co (KerbSimCo)
 
