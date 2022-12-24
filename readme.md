@@ -109,7 +109,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:attr]: https://zer0kerbal.github.io/LunaticAeronauticsLtd/Attributions "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/LunaticAeronauticsLtd/master/changelog.md  "Changelog"
 [MOD:discu]: https://github.com/zer0Kerbal/LunaticAeronauticsLtd/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/ "LunaticAeronauticsLtd Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/ "LunaticAeronauticsLtd Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/LunaticAeronauticsLtd/issues "Issues"
 [MOD:notic]: https://zer0kerbal.github.io/LunaticAeronauticsLtd/Notices "GitHub Pages"
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
