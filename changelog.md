@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Lunatic Aeronautics Ltd (LAL)                                       |
-| ---------- | ------------------------------------------------------------------- |
-| license    | GPL-2.0                                                             |
-| author     | ximrm, Tuareg and zer0Kerbal                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RoverAntiGravitySystem)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RoverAntiGravitySystem) |
-| spacedock  | (https://spacedock.info/mod/3045)                                   |
-| ckan       | RoverAntiGravitySystem                                              |
+| modName    | Lunatic Aeronautics Ltd (LAL)                                      |
+| ---------- | ------------------------------------------------------------------ |
+| license    | GPL-2.0                                                            |
+| author     | ximrm, Tuareg and zer0Kerbal                                       |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/)  |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
+| spacedock  | (https://spacedock.info/mod/3045)                                  |
+| ckan       | LunaticAeronauticsLtd                                              |
 
 ## Version 0.9.99.0-pre-release `<Welcome to the Circus Boardroom>` edition
 
