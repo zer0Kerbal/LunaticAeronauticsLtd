@@ -204,3 +204,8 @@ Track progress: issues [here][MOD:issue] and projects [here](https://github.com/
 1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
 2. CurseForge. Right now.
 3. SpaceDock (and CKAN users). Soon™
+
+<!-- footnotes -->
+[^1]: this isn't a mod. ;P  
+[^2]: ***may*** work on other versions (YMMV)  
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  

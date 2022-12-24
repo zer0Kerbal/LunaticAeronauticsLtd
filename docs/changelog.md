@@ -12,15 +12,40 @@ updated:
 CC BY-ND 4.0 by zer0Kerbal
 --># Changelog  
   
-| modName    | Lunatic Aeronautics Ltd (LAL)                                       |
-| ---------- | ------------------------------------------------------------------- |
-| license    | GPL-2.0                                                             |
-| author     | ximrm, Tuareg and zer0Kerbal                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208483-*/)   |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/RoverAntiGravitySystem)   |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/RoverAntiGravitySystem) |
-| spacedock  | (https://spacedock.info/mod/3045)                                   |
-| ckan       | RoverAntiGravitySystem                                              |
+| modName    | Lunatic Aeronautics Ltd (LAL)                                      |
+| ---------- | ------------------------------------------------------------------ |
+| license    | GPL-2.0                                                            |
+| author     | ximrm, Tuareg and zer0Kerbal                                       |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/)  |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
+| spacedock  | (https://spacedock.info/mod/3045)                                  |
+| ckan       | LunaticAeronauticsLtd                                              |
+
+## Version 0.9.99.1-pre-release `<Send in the Clowns` edition
+
+* Released
+  * 23 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Changes 1.0.99.1
+
+* Add
+  * localization strings from 'Kerbal XMAS'
+  * common files from 'Kerbal XMAS'
+  * <en-us.cfg> v1.1.0.0
+* Correct
+  * .version to reflect 1.12.4 instead of 1.12.3
+* updates #5 - Localization - Master
+
+### Status 1.0.99.1
+
+* Issues
+  * closes #26 - Lunatic Aeronautics Ltd (LAL) 0.9.99.1-prerelease `<Send in the Clowns>` edition
+  * closes #27 - 1.0.0.0 Additional Tasks
+
+---
 
 ## Version 0.9.99.0-pre-release `<Welcome to the Circus Boardroom>` edition
 
