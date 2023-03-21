@@ -7,8 +7,6 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208613-*/)  |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
-| spacedock  | (https://spacedock.info/mod/3045)                                  |
-| ckan       | LunaticAeronauticsLtd                                              |
 
 ## Version 0.9.99.1-pre-release `<Send in the Clowns` edition
 
