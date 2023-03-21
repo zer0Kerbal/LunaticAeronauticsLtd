@@ -8,9 +8,7 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
 
-## Release Notes
-
-### Version 0.9.99.2-pre-release `<Send in Another Clown>` edition
+## Version 0.9.99.2-pre-release `<Send in Another Clown>` edition
 
 * Released
   * 20 Mar 2023
