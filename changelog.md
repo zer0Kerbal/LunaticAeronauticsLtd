@@ -8,6 +8,28 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LunaticAeronauticsLtd)   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LunaticAeronauticsLtd) |
 
+## Release Notes
+
+### Version 0.9.99.2-pre-release `<Send in Another Clown>` edition
+
+* Released
+  * 20 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Changes 1.0.99.2
+
+* fix texture issue
+* update hero
+
+### Status 1.0.99.2
+
+* Issues
+  * closes #30 - Lunatic Aeronautics Ltd (LAL) 0.9.99.2-prerelease `<Send in Another Clown>` edition
+  * closes #31 - 0.9.99.2 Additional Tasks
+
+---
+
 ## Version 0.9.99.1-pre-release `<Send in the Clowns` edition
 
 * Released
